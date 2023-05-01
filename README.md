@@ -14,3 +14,19 @@
  <a href="https://discord.gg/WhWQu8TbDg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hiangs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ##
+ <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Hiangs&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Hiangs&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hiangs&show_icons=true" />
+</picture>
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiangs&hide_progress=true)](https://github.com/Hiangs/github-readme-stats)
